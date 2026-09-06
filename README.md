@@ -13,12 +13,22 @@
 
 <br>
 
-Full-stack engineer shipping production features end-to-end — serverless AWS infrastructure on the backend, React and Angular on the front. Two years in, proven by numbers rather than adjectives:
+## About
 
-- Built systems used by **2,000,000+** registered users
-- Encrypted **20,000+** records end-to-end with AES-256
-- Cut search latency **2x** through targeted database indexing
-- Real-time sync at **sub-50ms** over WebSockets, no lag
+Full-stack engineer shipping production features end-to-end — serverless AWS infrastructure on the backend, React and Angular on the front, two years in. I care more about systems that hold up under real traffic than about resumes that say so.
+
+<br>
+
+## Track record
+
+| | |
+|---|---|
+| 🌍 **Scale** | Built UIs and APIs used by **2,000,000+** registered users |
+| 🔒 **Security** | Encrypted **20,000+** records end-to-end with AES-256 |
+| ⚡ **Performance** | Cut search latency **2x** through targeted database indexing |
+| 🛰️ **Real-time** | WebSocket sync at **sub-50ms** latency, room-based architecture |
+| 🧩 **Architecture** | One reusable component, adopted across **4+** modules — zero duplicate implementations |
+| ⏱️ **Automation** | Turned a 25-minute manual export process into zero minutes |
 
 <br>
 
@@ -56,8 +66,8 @@ JWT auth with refresh-token rotation, Redux-driven cart and order state with opt
 ## Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mayuurrr&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=C9D1D9" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuurrr&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9" height="150"/>
+<img src="https://github.com/Mayuurrr/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Mayuurrr/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
