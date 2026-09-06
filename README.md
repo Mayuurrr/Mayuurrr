@@ -1,25 +1,22 @@
-<h1 align="center">Mayur Hegde</h1>
-<p align="center"><b>Full-Stack Software Engineer</b> · Bengaluru, India</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,100:6C5CE7&height=180&text=MAYUR%20HEGDE&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Bengaluru%2C%20India&descAlignY=65&descSize=16&descColor=D8D3F5" width="100%"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1800&color=6C5CE7&center=true&vCenter=true&width=560&lines=Building+real-time+systems+that+don't+fall+over;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+AWS" /></a>
+<img src="https://img.shields.io/badge/FOCUS-Real--time%20systems-6C5CE7?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20years-6C5CE7?style=flat-square&labelColor=1A1A2E"/>
+<img src="https://img.shields.io/badge/STACK-React%20·%20TS%20·%20Node%20·%20AWS-6C5CE7?style=flat-square&labelColor=1A1A2E"/>
+<a href="https://linkedin.com/in/mayurhegde"><img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=flat-square&logo=linkedin&logoColor=6C5CE7"/></a>
+<a href="mailto:mayurhegde11@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A2E?style=flat-square&logo=gmail&logoColor=6C5CE7"/></a>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/mayurhegde">LinkedIn</a> ·
-<a href="mailto:mayurhegde11@gmail.com">Email</a> ·
-<a href="https://github.com/Mayuurrr">GitHub</a>
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
 
-<br>
+### 🧭 About
 
-## About
+Full-stack engineer shipping production features end-to-end — serverless AWS infrastructure on the backend, React and Angular on the front. Two years in, proven by numbers rather than adjectives.
 
-Full-stack engineer shipping production features end-to-end — serverless AWS infrastructure on the backend, React and Angular on the front, two years in. I care more about systems that hold up under real traffic than about resumes that say so.
-
-<br>
-
-## Track record
+### 📌 Track record
 
 | | |
 |---|---|
@@ -27,49 +24,34 @@ Full-stack engineer shipping production features end-to-end — serverless AWS i
 | 🔒 **Security** | Encrypted **20,000+** records end-to-end with AES-256 |
 | ⚡ **Performance** | Cut search latency **2x** through targeted database indexing |
 | 🛰️ **Real-time** | WebSocket sync at **sub-50ms** latency, room-based architecture |
-| 🧩 **Architecture** | One reusable component, adopted across **4+** modules — zero duplicate implementations |
+| 🧩 **Architecture** | One reusable component, adopted across **4+** modules |
 | ⏱️ **Automation** | Turned a 25-minute manual export process into zero minutes |
 
-<br>
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💼 Projects
 
 **[Real-Time Collaborative Code Editor](https://github.com/Mayuurrr/REPLACE-WITH-REPO-NAME)**
-
-Multi-user editor supporting 4+ languages, syncing over WebSockets at sub-50ms latency via a room-based Socket.IO architecture. No sign-up, no cap on concurrent rooms.
-
-</td>
-<td width="50%" valign="top">
+Multi-user editor, 4+ languages, sub-50ms sync over a room-based Socket.IO architecture. No sign-up, no room cap.
 
 **[MERN E-Commerce App](https://github.com/Mayuurrr/REPLACE-WITH-REPO-NAME)**
+JWT + refresh-token rotation, Redux cart/order state with optimistic UI, compound MongoDB indexes for 2x faster search.
 
-JWT auth with refresh-token rotation, Redux-driven cart and order state with optimistic UI, compound MongoDB indexes cutting search response time 2x.
+</td>
+<td width="38%" valign="top">
+
+### 🛠️ Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,angular,nodejs,express,aws,mongodb,redis,docker,git&theme=dark&perline=5"/>
+
+### 📊 Activity
+
+<img src="https://github.com/Mayuurrr/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="100%"/>
+
+<img src="https://github.com/Mayuurrr/github-stats/blob/generated/languages.svg#gh-dark-mode-only" width="100%"/>
+
+### 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Mayuurrr/Mayuurrr/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,ts,js,tailwind,nodejs,express,graphql,aws,mongodb,mysql,redis,docker,git&theme=dark&perline=8" />
-</p>
-
-<br>
-
-## Activity
-
-<p align="center">
-<img src="https://github.com/Mayuurrr/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Mayuurrr/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mayuurrr/Mayuurrr/output/github-contribution-grid-snake.svg" />
-</p>
