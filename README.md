@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:ffffff,100:000000&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:39FF14,100:000000&height=150&section=header"/>
 
 ```
 ███╗   ███╗ █████╗ ██╗   ██╗██╗   ██╗██████╗     ██╗  ██╗███████╗ ██████╗ ██████╗ ███████╗
@@ -11,7 +11,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=ffffff&background=000000&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Node.js;Serverless+on+AWS+%E2%80%94+Lambda+%C2%B7+DynamoDB+%C2%B7+API+Gateway;Shipping+production+features+since+2024" alt="typing-svg"/>
+<img src="./assets/status.svg" alt="status"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=39FF14&background=000000&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Node.js;Serverless+on+AWS+%E2%80%94+Lambda+%C2%B7+DynamoDB+%C2%B7+API+Gateway;Shipping+production+features+since+2024" alt="typing-svg"/>
 
 📍 Bengaluru, Karnataka, India
 
@@ -53,7 +57,7 @@ $ cat highlights.log
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF14,100:000000&height=3"/>
 
 <a id="stack"></a>
 ### ▚ `stack`
@@ -102,13 +106,13 @@ $ cat highlights.log
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF14,100:000000&height=3"/>
 
 <a id="experience"></a>
 ### ▚ `experience`
 
 <details open>
-<summary><b>Software Engineer</b> · Techpearl Software — B2B SaaS, Event Management Platform &nbsp; <img src="https://img.shields.io/badge/NOW-ffffff?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; <sub><code>Jun 2025 – Present</code></sub></summary>
+<summary><b>Software Engineer</b> · Techpearl Software — B2B SaaS, Event Management Platform &nbsp; <img src="https://img.shields.io/badge/NOW-000000?style=flat-square&labelColor=39FF14&color=39FF14"/> &nbsp; <sub><code>Jun 2025 – Present</code></sub></summary>
 <br/>
 
 - Engineered real-time event analytics dashboards with Chart.js on a serverless microservices architecture (AWS Lambda, DynamoDB), eliminating a ~25-minute manual data export process per event for the ops team.
@@ -143,7 +147,7 @@ $ cat highlights.log
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF14,100:000000&height=3"/>
 
 <a id="projects"></a>
 ### ▚ `projects`
@@ -168,14 +172,14 @@ MERN e-commerce app with JWT auth and refresh-token rotation, Redux-managed cart
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF14,100:000000&height=3"/>
 
 <a id="stats"></a>
 ### ▚ `stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Mayuurrr&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Mayuurrr&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff&dates=ffffff&stroke=39FF14&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
 
 <br/><br/>
 
@@ -187,12 +191,12 @@ MERN e-commerce app with JWT auth and refresh-token rotation, Redux-managed cart
 
 </div>
 
-<sub>⚠️ The snake animation above needs a one-time setup — see `.github/workflows/snake.yml` in this download and the note below. The GitHub-stats + top-languages cards are left out on purpose: the shared public service that powers them (`github-readme-stats.vercel.app`) has been going down since January, so a broken card wasn't worth the risk.</sub>
+<sub>⚠️ The snake animation needs the one-time setup from `.github/workflows/snake.yml` (see notes below) — it's a real animated SVG, not a static image, once it's live. The GitHub-stats + top-languages cards stay left out: the shared public service behind them (`github-readme-stats.vercel.app`) has been going down since January.</sub>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF14,100:000000&height=3"/>
 
 <a id="connect"></a>
 ### ▚ `connect`
@@ -208,4 +212,4 @@ MERN e-commerce app with JWT auth and refresh-token rotation, Redux-managed cart
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:ffffff,100:000000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:39FF14,100:000000&height=150&section=footer"/>
