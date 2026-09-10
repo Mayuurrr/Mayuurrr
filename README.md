@@ -1,23 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:ffffff,100:000000&height=150&section=header"/>
+
+```
+███╗   ███╗ █████╗ ██╗   ██╗██╗   ██╗██████╗     ██╗  ██╗███████╗ ██████╗ ██████╗ ███████╗
+████╗ ████║██╔══██╗╚██╗ ██╔╝██║   ██║██╔══██╗    ██║  ██║██╔════╝██╔════╝ ██╔══██╗██╔════╝
+██╔████╔██║███████║ ╚████╔╝ ██║   ██║██████╔╝    ███████║█████╗  ██║  ███╗██║  ██║█████╗  
+██║╚██╔╝██║██╔══██║  ╚██╔╝  ██║   ██║██╔══██╗    ██╔══██║██╔══╝  ██║   ██║██║  ██║██╔══╝  
+██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║    ██║  ██║███████╗╚██████╔╝██████╔╝███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=ffffff&background=000000&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Node.js;Serverless+on+AWS+%E2%80%94+Lambda+%C2%B7+DynamoDB+%C2%B7+API+Gateway;Shipping+production+features+since+2024" alt="typing-svg"/>
+
+📍 Bengaluru, Karnataka, India
+
 <br/>
 
-# MAYUR&nbsp;HEGDE
-<samp>Full-Stack Software Engineer</samp>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&width=560&lines=React+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Node.js;Serverless+on+AWS+%E2%80%94+Lambda+%C2%B7+DynamoDB+%C2%B7+API+Gateway;Shipping+production+features+since+2024" alt="typing-svg"/>
-
-<sub>📍 Bengaluru, Karnataka, India</sub>
-
-<br/><br/>
-
 <samp>
-<a href="#stack">stack</a> &nbsp;/&nbsp;
-<a href="#experience">experience</a> &nbsp;/&nbsp;
-<a href="#projects">projects</a> &nbsp;/&nbsp;
-<a href="#stats">stats</a> &nbsp;/&nbsp;
-<a href="#connect">connect</a>
+<a href="#stack"><b>STACK</b></a> &nbsp;▚&nbsp;
+<a href="#experience"><b>EXPERIENCE</b></a> &nbsp;▚&nbsp;
+<a href="#projects"><b>PROJECTS</b></a> &nbsp;▚&nbsp;
+<a href="#stats"><b>STATS</b></a> &nbsp;▚&nbsp;
+<a href="#connect"><b>CONNECT</b></a>
 </samp>
 
 </div>
@@ -25,28 +30,33 @@
 <br/>
 
 ```
+●  ●  ●  mayur@github:~
+
 $ whoami
 Full-stack engineer · 2+ years · React / TypeScript / Angular / Node.js on serverless AWS
-Shipped a course player used by 2M+ registered users, a realtime editor with sub-50ms sync,
-and event analytics that killed a 25-minute manual export process.
-I like owning things end to end — API design, system design calls, review, and the deploy.
+
+$ cat highlights.log
+> Shipped a course player used by 2M+ registered users
+> Built a realtime collaborative editor with sub-50ms sync
+> Cut a 25-minute manual export process down to zero
+> Own things end to end — API design, system design calls, review, deploy
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2%2B%20Years-Experience-ffffff?style=flat-square&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/2M%2B-Users%20Reached-ffffff?style=flat-square&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/30%2B-API%20Routes%20Shipped-ffffff?style=flat-square&labelColor=ffffff&color=ffffff"/>
-<img src="https://img.shields.io/badge/Sub--50ms-Realtime%20Sync-ffffff?style=flat-square&labelColor=ffffff&color=ffffff"/>
+<img src="https://img.shields.io/badge/2%2B_YEARS-EXPERIENCE-ffffff?style=for-the-badge&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/2M%2B-USERS_REACHED-ffffff?style=for-the-badge&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/30%2B-API_ROUTES-ffffff?style=for-the-badge&labelColor=000000&color=ffffff"/>
+<img src="https://img.shields.io/badge/SUB--50MS-REALTIME_SYNC-ffffff?style=for-the-badge&labelColor=000000&color=ffffff"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
 
 <a id="stack"></a>
-### `stack`
+### ▚ `stack`
 
 <div align="center">
 
@@ -75,7 +85,7 @@ I like owning things end to end — API design, system design calls, review, and
 <br/>
 
 <details>
-<summary><b>Full breakdown</b></summary>
+<summary><b>▸ Full breakdown</b></summary>
 <br/>
 
 | | |
@@ -92,13 +102,13 @@ I like owning things end to end — API design, system design calls, review, and
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
 
 <a id="experience"></a>
-### `experience`
+### ▚ `experience`
 
 <details open>
-<summary><b>Software Engineer</b> · Techpearl Software — B2B SaaS, Event Management Platform &nbsp; <sub><code>Jun 2025 – Present</code></sub></summary>
+<summary><b>Software Engineer</b> · Techpearl Software — B2B SaaS, Event Management Platform &nbsp; <img src="https://img.shields.io/badge/NOW-ffffff?style=flat-square&labelColor=000000&color=ffffff"/> &nbsp; <sub><code>Jun 2025 – Present</code></sub></summary>
 <br/>
 
 - Engineered real-time event analytics dashboards with Chart.js on a serverless microservices architecture (AWS Lambda, DynamoDB), eliminating a ~25-minute manual data export process per event for the ops team.
@@ -133,59 +143,69 @@ I like owning things end to end — API design, system design calls, review, and
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
 
 <a id="projects"></a>
-### `projects`
+### ▚ `projects`
 
-**Real-Time Collaborative Code Editor — Edito**
-<sub>`React · Vite · Socket.IO · Express.js`</sub>
+**⬡ Real-Time Collaborative Code Editor — Edito**
+
+<img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Vite-ffffff?style=flat-square&logo=vite&logoColor=000000"/> <img src="https://img.shields.io/badge/Socket.IO-ffffff?style=flat-square&logo=socketdotio&logoColor=000000"/> <img src="https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=000000"/>
 
 Multi-user code editor supporting 4+ programming languages, with real-time sync over WebSockets achieving sub-50ms latency via a room-based Socket.IO architecture for session isolation and presence tracking. Sign-up-free with no cap on concurrent rooms, last-write-wins conflict resolution, and Jest tests covering join/leave edge cases and message broadcasting.
 
-[`Live`](https://edito-client.onrender.com/) &nbsp;·&nbsp; [`GitHub`](https://github.com/Mayuurrr/Edito)
+[`→ LIVE`](https://edito-client.onrender.com/) &nbsp;&nbsp; [`→ GITHUB`](https://github.com/Mayuurrr/Edito)
 
 <br/>
 
-**E-Commerce Application — Aether Essentials**
-<sub>`MERN · React · Redux · Node.js · Express · MongoDB`</sub>
+**⬡ E-Commerce Application — Aether Essentials**
+
+<img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Redux-ffffff?style=flat-square&logo=redux&logoColor=000000"/> <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=000000"/>
 
 MERN e-commerce app with JWT auth and refresh-token rotation, Redux-managed cart/order state, and optimistic UI updates for instant cart interactions. Compound indexes on high-frequency search fields cut query response time by 2x.
 
-[`Live`](https://aether-essentials.vercel.app/) &nbsp;·&nbsp; [`GitHub`](https://github.com/Mayuurrr/FcukEcommerce)
+[`→ LIVE`](https://aether-essentials.vercel.app/) &nbsp;&nbsp; [`→ GITHUB`](https://github.com/Mayuurrr/FcukEcommerce)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
 
 <a id="stats"></a>
-### `stats`
+### ▚ `stats`
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Mayuurrr&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayuurrr/Mayuurrr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayuurrr/Mayuurrr/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/Mayuurrr/Mayuurrr/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
-<sub>The GitHub-stats + top-languages cards are left out on purpose — the shared public service that powers them (`github-readme-stats.vercel.app`) has been going down since early this year, so a broken card wasn't worth the risk. Happy to add them back pointed at a self-hosted instance if you want the full picture later.</sub>
+<sub>⚠️ The snake animation above needs a one-time setup — see `.github/workflows/snake.yml` in this download and the note below. The GitHub-stats + top-languages cards are left out on purpose: the shared public service that powers them (`github-readme-stats.vercel.app`) has been going down since January, so a broken card wasn't worth the risk.</sub>
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=3"/>
 
 <a id="connect"></a>
-### `connect`
+### ▚ `connect`
 
 <div align="center">
 
-<a href="mailto:mayurhegde11@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=000000"/></a>
-<a href="https://www.linkedin.com/in/mayurhegde/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000"/></a>
-<a href="https://github.com/Mayuurrr"><img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000"/></a>
-<a href="https://mayurhegde.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=000000"/></a>
+<a href="mailto:mayurhegde11@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/mayurhegde/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="https://github.com/Mayuurrr"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/></a>
+<a href="https://mayurhegde.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:ffffff,100:000000&height=150&section=footer"/>
