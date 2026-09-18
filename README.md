@@ -125,28 +125,79 @@ Full-stack engineer with 2+ years shipping production features in React, TypeScr
 
 <table width="100%">
 <tr>
-<td width="68%" valign="top">
+<td rowspan="2" width="12%" align="center" valign="top">
 
-#### [Edito](https://github.com/Mayuurrr/Edito): Real-Time Collaborative Code Editor
-<sub>React · Vite · Socket.IO · Express.js</sub>
+# 01
+
+</td>
+<td width="63%" valign="top">
+
+### [Edito](https://github.com/Mayuurrr/Edito)
+Real-Time Collaborative Code Editor
 
 Multi-user code editor supporting 4+ programming languages, with real-time sync over WebSockets achieving sub-50ms latency via a room-based Socket.IO architecture for session isolation and presence tracking. Sign-up-free with no cap on concurrent rooms, last-write-wins conflict resolution, and Jest tests covering join/leave edge cases and message broadcasting.
 
-[Live →](https://edito-client.onrender.com/) · [Code →](https://github.com/Mayuurrr/Edito)
+</td>
+<td rowspan="2" width="25%" valign="top">
+
+<sub>STACK</sub><br/>
+React<br/>
+Vite<br/>
+Socket.IO<br/>
+Express.js
+
+<sub>LINKS</sub><br/>
+[Live →](https://edito-client.onrender.com/)<br/>
+[Code →](https://github.com/Mayuurrr/Edito)
 
 </td>
-<td width="32%"></td>
 </tr>
 <tr>
-<td width="32%"></td>
-<td width="68%" valign="top">
+<td width="63%" valign="top" align="right">
 
-#### [Aether Essentials](https://github.com/Mayuurrr/FcukEcommerce): E-Commerce Application
-<sub>MERN · React · Redux · Node.js · Express · MongoDB</sub>
+<sub>Sub-50ms sync · unlimited concurrent rooms · sign-up free</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td rowspan="2" width="25%" valign="top">
+
+<sub>STACK</sub><br/>
+MERN<br/>
+React<br/>
+Redux<br/>
+Node.js<br/>
+Express<br/>
+MongoDB
+
+<sub>LINKS</sub><br/>
+[Live →](https://aether-essentials.vercel.app/)<br/>
+[Code →](https://github.com/Mayuurrr/FcukEcommerce)
+
+</td>
+<td width="63%" valign="top" align="right">
+
+### [Aether Essentials](https://github.com/Mayuurrr/FcukEcommerce)
+E-Commerce Application
 
 MERN e-commerce app with JWT auth and refresh-token rotation, Redux-managed cart/order state, and optimistic UI updates for instant cart interactions. Compound indexes on high-frequency search fields cut query response time by 2x.
 
-[Live →](https://aether-essentials.vercel.app/) · [Code →](https://github.com/Mayuurrr/FcukEcommerce)
+</td>
+<td rowspan="2" width="12%" align="center" valign="top">
+
+# 02
+
+</td>
+</tr>
+<tr>
+<td width="63%" valign="top" align="right">
+
+<sub>2x faster queries · JWT refresh-token rotation</sub>
 
 </td>
 </tr>
